@@ -9,7 +9,18 @@
 
 .login input {
 	opacity: 0.8;
+	color: #64a104;
+	text-align: center;
+	background-color: black;
 }
+
+.login input:focus {
+	opacity: 0.8;
+	color: #64a104;
+	text-align: center;
+	background-color: black;
+}
+
 
 .login-container {
     padding-top: 50%;
