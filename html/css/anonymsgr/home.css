@@ -9,7 +9,7 @@
 
 .login input {
 	opacity: 0.8;
-	color: #64a104;
+	color: #79c600;
 	text-align: center;
 	background-color: black;
 }
@@ -24,9 +24,4 @@
 
 .login-container {
     padding-top: 50%;
-}
-
-canvas {
-  width: 100%;
-  height: auto;
 }

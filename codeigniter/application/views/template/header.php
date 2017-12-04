@@ -16,6 +16,9 @@
 
     <!-- Bootstrap -->
     <script type="text/javascript" src="/js/third-party/bootstrap.bundle.min.js"></script>
+
+    <!-- SHA -->
+    <script type="text/javascript" src="/js/third-party/sha.js"></script>
     
     <!-- Custom Bootstrap Admin Theme -->
     <link href="/css/third-party/bootstrap.min.css" rel="stylesheet">

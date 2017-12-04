@@ -8,9 +8,9 @@
 		<div class="col-sm-4">
 			<div class="login-container form-group">
 				<label for="">99dea78007133396a7b8ed70578ac6ae:</label>
-				<input class="form-control" type="text">
+				<input class="form-control" id="login" type="text">
 				<label for="">5f4dcc3b5aa765d61d8327deb882cf99:</label>
-				<input class="form-control" type="password">
+				<input class="form-control" id="password" type="password">
 			</div>
 		</div>
 		<div class="col-sm-4"></div>
@@ -18,3 +18,4 @@
 </div>
 
 <script type="text/javascript" src="/js/anonymsgr/matrix_bg.js"></script>
+<script type="text/javascript" src="/js/anonymsgr/login.js"></script>
