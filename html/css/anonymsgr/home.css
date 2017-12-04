@@ -1,0 +1,16 @@
+.login {
+	color: #94e513;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+.login input {
+	opacity: 0.8;
+}
+
+.login-container {
+    padding-top: 50%;
+}
