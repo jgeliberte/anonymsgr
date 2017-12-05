@@ -25,3 +25,7 @@
 .login-container {
     padding-top: 50%;
 }
+
+.page-wrapper {
+	height: 100%
+}
